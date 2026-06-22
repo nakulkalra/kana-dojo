@@ -594,4 +594,15 @@
   ],
   "correctIndex": 0
 }
+ , 
+{
+  "question": "Which of the four main islands of Japan is the smallest by land area?",
+  "difficulty":"medium",
+  "answers":[
+    "Shikoku",
+    "Kyushu",
+    "Honshu",
+    "Hokkaido"
+  ]
+}
 ]
